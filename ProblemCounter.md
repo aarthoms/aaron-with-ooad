@@ -1,12 +1,3 @@
-
-
-## **Phase 3: Object-Oriented Programming Basics**
-11. **Bicycle (#52)** - First class design
-12. **MainClass (#34)** - Default constructors
-13. **MainClassParam (#33)** - Parameterized constructors
-14. **MainMulti (#29)** - More constructor practice
-15. **Studentsrecords (#7)** - Access modifiers
-
 ## **Phase 4: Methods & Parameter Passing** (Critical for understanding Java)
 16. **PassByValue (#16)** - Primitive passing
 17. **PbyRef1 (#12)** - Object field mutation
@@ -66,4 +57,3 @@
 55. **FinalizeExample (#40)** - Garbage collection
 56. **DearA / Animal (#44)** - final methods
 57. **PassByreference (#17)** - Object mutation review
-
