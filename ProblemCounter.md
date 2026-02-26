@@ -1,22 +1,3 @@
-## **Phase 4: Methods & Parameter Passing** (Critical for understanding Java)
-16. **PassByValue (#16)** - Primitive passing
-17. **PbyRef1 (#12)** - Object field mutation
-18. **PByRef2 (#11)** - Return values simulation
-19. **PassByValueJObj (#15)** - Integer objects vs primitives
-20. **PassByValueN (#14)** - Array element modification
-21. **PassByValueN2 (#13)** - Array reassignment
-
-## **Phase 5: Inheritance** (Start with simple, build complexity)
-22. **SingleInheritance (#9)** - Basic inheritance
-23. **SuperMain1 (#6)** - Variable shadowing with super
-24. **SuperMain2 (#5)** - Method calls with super
-25. **SuperMain4 (#3)** - Parameterized constructor with super
-26. **SuperMain3 (#4)** - Constructor chaining
-27. **IExample1 (#36)** - Method inheritance
-28. **HierarchicalInheritance (#38)** - One parent, multiple children
-29. **MultilevelInheritance (#23)** - Chain of inheritance
-30. **Manager extends Employee (#26)** - Real-world example
-
 ## **Phase 6: Polymorphism**
 31. **MethodOverloadingEx (#25)** - Compile-time polymorphism
 32. **MainMultiply / Multiplier (#28)** - Overloading with types
