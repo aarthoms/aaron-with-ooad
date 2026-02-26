@@ -1,23 +1,8 @@
-## **Phase 6: Polymorphism**
-31. **MethodOverloadingEx (#25)** - Compile-time polymorphism
-32. **MainMultiply / Multiplier (#28)** - Overloading with types
-33. **MethodOverridingEx (#24)** - Runtime polymorphism
-
-## **Phase 7: Advanced OOP Concepts**
-34. **Sample / ABC (#10)** - Private constructors (Singleton intro)
-35. **BikeReturn (#50)** - Constructor return/unreachable code
-36. **BikeRight (#49)** - Early constructor exit
-37. **BikeCopy (#51)** - Copy constructors
-
 ## **Phase 8: Inner Classes**
 38. **Outer (#21)** - Static nested classes
 39. **Outer2 (#20)** - Non-static inner classes
 40. **Outer3 (#19)** - Method-local inner classes
 
-## **Phase 9: Abstract Classes & Interfaces**
-41. **HospitalSystem (#37)** - Abstract classes
-42. **Vehicle Interface (#43)** - Interfaces with default methods
-43. **AcademicSystem (#57)** - Abstract + Interface combination
 
 ## **Phase 10: Exception Handling**
 44. **MainExcept1 (#32)** - try-catch basics
