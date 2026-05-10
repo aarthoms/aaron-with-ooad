@@ -1,5 +1,5 @@
-// Calculate the Area of Triangle 
 import java.util.Scanner; 
+// Calculate the Area of Triangle 
 class AreaTriangle{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in); 
