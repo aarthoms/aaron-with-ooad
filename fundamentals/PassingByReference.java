@@ -12,7 +12,7 @@ public class PassingByReference {
         System.out.println("After call-by-reference: "+ eg.a); 
         // Three ways of Passing by refernce: 
         // 1: Global variable + modify it out. 
-        // 2: Reassign the same variable as return 
+        // 2: Returning a value from a method & reassigning to same variable
         // 3: Single membered Array
     }
 }
